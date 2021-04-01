@@ -19,6 +19,7 @@ Figure 1
 Use double-sided Foampads to mount the DPU on top of the ASIC.
 
 (C) 1998 Edwin Blink, PCB & Instructions by Dan Dooré 2021
+
  
 **Schematic**
 
