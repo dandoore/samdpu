@@ -89,7 +89,7 @@
 		(descr "14-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil")
 		(property "Reference" "U1"
-			(at 5.5 0.08 360)
+			(at 5.5 0.08 0)
 			(layer "F.Fab")
 			(uuid "282debcb-ac8b-4cf1-ac39-cb723fb20b81")
 			(effects
@@ -100,7 +100,7 @@
 			)
 		)
 		(property "Value" "74LS04"
-			(at 5.5 7.58 180)
+			(at 3.8 7.625 180)
 			(layer "F.SilkS")
 			(uuid "a1425f9f-a44f-4d0c-8a08-6d338ba062ad")
 			(effects
@@ -3435,7 +3435,7 @@
 		(uuid "9918c1e1-d73e-4109-93eb-44b5f4c9ce94")
 	)
 	(gr_text "PCB 2024\nDan Dooré"
-		(at 146.955 94.3 0)
+		(at 146.955 105 0)
 		(layer "B.SilkS")
 		(uuid "2ac30ed6-47e6-42cb-b193-87404a7110c7")
 		(effects
@@ -3447,14 +3447,15 @@
 		)
 	)
 	(gr_text "SAM DPU (C) 1998\nEdwin Blink"
-		(at 146.955 93.5 0)
-		(layer "F.SilkS")
+		(at 147 94 -0)
+		(layer "B.SilkS")
 		(uuid "569edf48-49e3-4813-9657-581ecaaf3bd8")
 		(effects
 			(font
 				(size 1 1)
 				(thickness 0.15)
 			)
+			(justify mirror)
 		)
 	)
 	(segment
