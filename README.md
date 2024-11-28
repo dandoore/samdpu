@@ -18,7 +18,7 @@ Before fitting the DPU you must cut the ASIC’s 8 MHz clock PCB track at the pl
 
 Use double-sided Foampads to mount the DPU on top of the ASIC.
 
-(C) 1998 Edwin Blink, PCB & Instructions by Dan Dooré 2021
+(C) 1998 Edwin Blink, PCB & Instructions by Dan Dooré 2021/2024
 
  
 **Schematic**
@@ -32,5 +32,6 @@ Before installation
 ![IMG_8853](https://user-images.githubusercontent.com/43847005/113261393-53fa6c80-92c7-11eb-9b69-b5fd2b3b0cec.jpg)
 
 After installation
+Note: Newer PCB has solder points in different locations but no functional change.
 
 ![IMG_8854-sm](https://user-images.githubusercontent.com/43847005/113261524-78564900-92c7-11eb-8bac-6ecea7835042.jpg)
