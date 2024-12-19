@@ -35,3 +35,7 @@ After installation
 Note: Newer PCB has solder points in different locations but no functional change.
 
 ![IMG_8854-sm](https://user-images.githubusercontent.com/43847005/113261524-78564900-92c7-11eb-8bac-6ecea7835042.jpg)
+
+Newer PCB
+
+![IMG_3494](https://github.com/user-attachments/assets/16e2fdbf-a3a9-4ede-b634-1757ec9e5b40)
